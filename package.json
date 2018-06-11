@@ -1,0 +1,20 @@
+{
+  "name": "wordgame-cli",
+  "version": "1.0.0",
+  "description": "A game that uses inquirer and require to import other files that run the game by using object constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmg87/wordgame-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmg87/wordgame-cli/issues"
+  },
+  "homepage": "https://github.com/cmg87/wordgame-cli#readme"
+}
